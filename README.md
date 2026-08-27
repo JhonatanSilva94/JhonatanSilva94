@@ -5,5 +5,7 @@ Por 8 anos fui jogador e depois treinador profissional de Counter-Strike (compet
 Agora tô trocando a mira pelo terminal — voltando pra área de TI, de onde vim antes dos eSports.
 
 🔧 Hoje em dia, o "grind" é outro: Linux, Git, Docker, Terraform e AWS
+
 📜 AWS Certified (Cloud Practitioner, AI Practitioner)
+
 🎯 Construindo projetos aqui pra aprender na prática, não só na teoria
