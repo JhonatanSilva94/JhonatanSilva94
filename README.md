@@ -1,9 +1,9 @@
-## Oi, eu sou o Jhonatan 👋
+## Iae, eu sou o Jhonatan 👋
 
-Por 8 anos fui jogador e depois treinador profissional de Counter-Strike (competi como "jnt", passei pela Sharks Esports, depois treinei a equipe feminina da FURIA e o time masculino do MIBR). Morei em Portugal, EUA e Sérvia e viajei pelo mundo jogando diversos campeonatos.
+Analista de Infraestrutura buscando recolocação no mercado após 8 anos em outra área.
 
-Agora tô trocando a mira pelo terminal e voltando pra área de TI, de onde vim antes dos eSports.
+Por 8 anos fui jogador e depois treinador profissional de Counter-Strike (competi como "jnt"). Morei em Portugal, EUA e Sérvia. Viajei pelo mundo jogando diversos campeonatos.
 
-📜 AWS Certified (Cloud Practitioner, AI Practitioner)
+📜 AWS Certified (Cloud Practitioner & AI Practitioner)
 
-🎯 Construindo projetos aqui pra aprender na prática, não só na teoria
+🎯 Construindo projetos aqui pra aprender na prática
